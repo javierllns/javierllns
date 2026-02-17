@@ -1,16 +1,29 @@
-## Hi there 👋
+## 👨‍🚀 About Me
 
-<!--
-**javierllns/javierllns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer focused on building scalable, reliable and well-architected systems.
+Experience designing and implementing frontend applications, backend services, APIs, real-time systems, cloud deployments and infrastructure.
+Comfortable working across the stack, from user interfaces to distributed services, databases and production environments.
 
-Here are some ideas to get you started:
+I value clean architecture, performance, maintainability and long-term thinking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Engineering Stack
+
+- TypeScript
+- JavaScript (ES6+)
+- C#
+- Go
+- Python
+- SQL
+
+## 🧠 Mindset
+
+- Performance-oriented development
+- Scalable architecture
+- Clean and maintainable code
+- Continuous learning
+
+## 🌐 Links
+
+- Portfolio: https://portfolio.javierllns.com/es  
+- LinkedIn: http://linkedin.com/in/javierllns  
+- GitHub: http://github.com/javierllns
