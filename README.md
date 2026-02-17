@@ -1,4 +1,4 @@
-## 👨‍🚀 About Me
+## Hi there! 😁
 
 Software Engineer focused on building scalable, reliable and well-architected systems.
 Experience designing and implementing frontend applications, backend services, APIs, real-time systems, cloud deployments and infrastructure.
